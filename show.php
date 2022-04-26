@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-define('GMAPKEY','AIzaSyCZBqufMxxIezFkSLBCK5j2HCInF0BEvOk');
+define('GMAPKEY','KEY');
 Class Geocode {
 	public function __construct(){
 		
